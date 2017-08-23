@@ -1,0 +1,37 @@
+body {
+  margin-top: 125px;
+}
+
+table {
+  margin: 0 auto;
+}
+
+td {
+  height: 100px;
+  width: 100px;
+  border: black, solid, 1px;
+}
+
+#green {
+  background-color: rgba(31, 219, 0, 0.7);
+}
+
+#red {
+  background-color: rgba(214, 0, 0, 0.7);
+}
+
+#yellow {
+  background-color: rgba(255, 230, 0, 0.7);
+}
+
+#blue {
+  background-color: rgba(0, 30, 235, 0.7);
+}
+
+p, h1, form {
+  text-align: center;
+}
+
+h1 {
+  height: 30px;
+}
